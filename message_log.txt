@@ -1,0 +1,29 @@
+Status update for SMe8c942f7cb8684ffea166fd2e7971e40: delivered (to whatsapp:+919999999999)
+Status update for SMe8c942f7cb8684ffea166fd2e7971e40: sent (to whatsapp:+919999999999)
+Status update for SM1e7363a6e15e0be364f50277fbb661c4: read (to whatsapp:+919999999999)
+Received message from whatsapp:+919999999999: Thank you
+Status update for SM14174f93b0db00a5173aa7a8280ab04a: delivered (to whatsapp:+919999999999)
+Status update for SM14174f93b0db00a5173aa7a8280ab04a: read (to whatsapp:+919999999999)
+Scheduled run_time: 2025-06-03 19:38:26.275532
+Calling schedule_reminder for whatsapp:+919999999999
+Error: Scheduled run_time 2025-06-03 19:38:26.275532 is in the past!
+Status update for SMfe6d33fbb4d8313b2fea9aed5df6dc44: sent (to whatsapp:+919999999999)
+Status update for SMfe6d33fbb4d8313b2fea9aed5df6dc44: delivered (to whatsapp:+919999999999)
+Status update for SMfe6d33fbb4d8313b2fea9aed5df6dc44: read (to whatsapp:+919999999999)
+Now (IST): 2025-06-04T01:16:45.131920+05:30
+Scheduled run_time (IST): 2025-06-04T01:16:55.131920+05:30
+Calling schedule_reminder for whatsapp:+919999999999
+Status update for SM87ee1bf94f8df31df583c5e61066b2fc: delivered (to whatsapp:+919999999999)
+Status update for SM87ee1bf94f8df31df583c5e61066b2fc: sent (to whatsapp:+919999999999)
+Now (IST): 2025-06-04T01:19:06.334433+05:30
+Scheduled run_time (IST): 2025-06-04T01:19:16.334433+05:30
+Calling schedule_reminder for whatsapp:+919999999999
+Status update for SM4c37b7139f0f025e979d2cb6f0431de6: sent (to whatsapp:+919999999999)
+Status update for SM4c37b7139f0f025e979d2cb6f0431de6: delivered (to whatsapp:+919999999999)
+Now (IST): 2025-06-04T01:29:36.897315+05:30
+Scheduled run_time (IST): 2025-06-04T01:29:46.897315+05:30
+Calling schedule_reminder for whatsapp:+919999999999
+Scheduled reminder job for whatsapp:+919999999999 at 2025-06-04 01:29:46.897315+05:30
+Status update for SM15e5079f6ccf5e862d77a3b5d2bb67aa: delivered (to whatsapp:+919999999999)
+Status update for SM15e5079f6ccf5e862d77a3b5d2bb67aa: sent (to whatsapp:+919999999999)
+Status update for SM87ee1bf94f8df31df583c5e61066b2fc: read (to whatsapp:+919999999999)

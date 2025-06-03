@@ -1,0 +1,7 @@
+Flask
+twilio
+python-dotenv
+streamlit
+google-genai
+flask-ngrok
+APScheduler
